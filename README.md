@@ -36,19 +36,19 @@ Considerer a basic RESTFul API application used for recording customer data that
     * Countr.
 *	The customer’s data must be provided, and registered, by the user, via the Web API routes;
 *	The existing data must be accessible in 02 different manners:
-  *	As a list;	  
-  *	As a detailed object for a single entry.
+    *	As a list;	  
+    *	As a detailed object for a single entry.
 *	Users must be able to:
-  *	Create an entry;
-  *	Edit an entry;
-  * Delete an entry.
+    *	Create an entry;
+    *	Edit an entry;
+    * Delete an entry.
 * Some suggestions and guidelines for the development of your solution:
-  * Pay attention to the used syntax when naming routes and methods;
-  *	We suggest a DDD architecture, but feel free to design your solution as you see fit;
-  *	While developing your application, bear in mind 03 things:
-    * Keep the code as clean as possible;
-    * In the IT World, collaboration means everything, therefore keep your code as maintainable as possible;
-    *	Documenting is a good code-development practice;
+    * Pay attention to the used syntax when naming routes and methods;
+    *	We suggest a DDD architecture, but feel free to design your solution as you see fit;
+    *	While developing your application, bear in mind 03 things:
+          * Keep the code as clean as possible;
+          * In the IT World, collaboration means everything, therefore keep your code as maintainable as possible;
+          *	Documenting is a good code-development practice;
   *	Testing is one of the gateways for a consistent, scalable, and robust solution: feel free to implement testing as you would in the real world;
   *	As we have previously mentioned, you do not need to solve this challenged in its entirety, but we will surely consider your best effort;
   * There’s some tools that can help your development, as using Entity Framework with MSSQL or a MySQL database.
