@@ -42,7 +42,7 @@ Considerer a basic RESTFul API application used for recording customer data that
     * Register more than 01 address to each customer;
     * Register more than 01 phone contact to each customer:
       *  Mobile or local;
-    * Register only 01 e-mail to each customer;
+    * Register only 01 e-mail to each customer. E-mail's can't be shared between users;
     * Associate customers as if they lived together;
     * Share addresses and local phone contacts between users that live together;
 *	The customer’s data must be provided, and registered, by the user, via the Web API routes;
