@@ -14,10 +14,14 @@ Hey, what's up? Are you ready to start the challenge? We would like to remember 
 *	DO NOT change the reviewers of your Pull Request.
 
 # Requirements
-*	.NET Core 3.1 or above.
+*	.NET Core 3.1 or above;
+*	Entity Framework for ORM;
+*	Use Microsoft SQL Server or a MySQL Server for the database;
+*	Your solution must contain its migration's files;
+*	Swagger implementation is mandatory (authentication and authorization are optional).
 
 # Instructions
-For the purposes of this challenge, we recommend using Visual Studio or Visual Studio Code. You must create your solution from scratch.
+For this challenge, we recommend using Visual Studio or Visual Studio Code. You must create your solution from scratch.
 After setting it all up, let's go to the challenge!!! \o/
 
 # Challenge
@@ -33,7 +37,14 @@ Considerer a basic RESTFul API application used for recording customer data that
     * Zipcode;
     * City;
     * State;
-    * Countr.
+    * Country.
+  * Users should be able to:
+    * Register more than 01 address to each customer;
+    * Register more than 01 phone contact:
+      *  Mobile or local;
+    * Register only 01 e-mail to each customer;
+    * Associate customers as if they lived together;
+    * Share addresses and local phone contacts between users that live together;
 *	The customer’s data must be provided, and registered, by the user, via the Web API routes;
 *	The existing data must be accessible in 02 different manners:
     *	As a list;	  
