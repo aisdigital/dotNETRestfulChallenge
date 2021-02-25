@@ -4,7 +4,7 @@
 Hey, what's up? Are you ready to start the challenge? We would like to remember that this step will help us evaluate your performance. Take a deep breath and let’s go! We’re rooting for you. 😁
 
 ## Some rules
-  1.	DO NOT share your answer with others;
+  1.	**DO NOT** share your answer with others;
   2.	Remember that this challenge is meant to evaluate your skills, you don't necessarily have to finish all the challenge code implementation, we just want to get to know you better. 😁
 
 # Steps
