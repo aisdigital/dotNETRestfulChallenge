@@ -47,7 +47,7 @@ Considerer a basic RESTFul API application used for recording customer data that
     *	We suggest a DDD architecture, but feel free to design your solution as you see fit;
     *	While developing your application, bear in mind 03 things:
           * Keep the code as clean as possible;
-          * In the IT World, collaboration means everything, therefore keep your code as maintainable as possible;
+          * In the IT World, collaboration means everything. Therefore, keep your code as maintainable as possible;
           *	Documenting is a good code-development practice;
   *	Testing is one of the gateways for a consistent, scalable, and robust solution: feel free to implement testing as you would in the real world;
   *	As we have previously mentioned, you do not need to solve this challenged in its entirety, but we will surely consider your best effort;
