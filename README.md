@@ -40,7 +40,7 @@ Considerer a basic RESTFul API application used for recording customer data that
     * Country.
   * Users should be able to:
     * Register more than 01 address to each customer;
-    * Register more than 01 phone contact:
+    * Register more than 01 phone contact to each customer:
       *  Mobile or local;
     * Register only 01 e-mail to each customer;
     * Associate customers as if they lived together;
