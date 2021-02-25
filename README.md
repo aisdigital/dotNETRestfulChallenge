@@ -8,10 +8,10 @@ Hey, what's up? Are you ready to start the challenge? We would like to remember 
   2.	Remember that this challenge is meant to evaluate your skills, you don't necessarily have to finish all the challenge code implementation, we just want to get to know you better. 😁
 
 # Steps
-* Fork the repository;
-* Create a branch (from master branch) with the following pattern: Use your name as branch name, eg: Considering that my name is Jose da Silva the branch name should be: "feature/jose_silva";
-* Work only on your branch, and after you finish, create a Pull Request targeting "master" branch on this repository;
-*	DO NOT change the reviewers of your Pull Request.
+* Using your own Git account, create a repository for this solution;
+* Create a branch for this task. Use the following model for naming it: "feature/fulano_de_tal";
+* When completed the challenge, share your branch with us so we can check it out;
+* After receiving the challenge, you'll have 03 days to complete it. 
 
 # Requirements
 *	.NET Core 3.1 or above;
